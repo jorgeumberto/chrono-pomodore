@@ -1,0 +1,12 @@
+.countdown {
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    text-decoration: none;
+    background-color: var(--primary);
+    color: var(--text-over-primary);
+    padding: 1rem;
+    border-radius: 0.8rem;
+}

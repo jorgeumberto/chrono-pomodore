@@ -1,6 +1,6 @@
 
 import styles from './styles.module.css';
-import { HistoryIcon, HouseIcon, SettingsIcon, SunIcon, Timer } from 'lucide-react';
+import { HistoryIcon, HouseIcon, SettingsIcon, SunIcon } from 'lucide-react';
 
 
 export function Menu() {
